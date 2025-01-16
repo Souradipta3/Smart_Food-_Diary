@@ -1,4 +1,4 @@
-git clone https://github.com/rajnishdev/SmartFood_CalorieCode.git
+git clone https://github.com/Souradipta3/Smart_Food_Diary.git
 cd SmartFood_CalorieCode
 
 python -m venv env
